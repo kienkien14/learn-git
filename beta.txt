@@ -1,2 +1,4 @@
 
 Commit B1
+
+Commit B2
